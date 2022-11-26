@@ -1,2 +1,2 @@
 # xhtml2openpdf
-convert xhtml inti pdf using openpdf
+convert xhtml into pdf using openpdf
